@@ -2,18 +2,19 @@
 
 
 body{
-    width: 1440px;
-    height: 900px;
+    
     background-color: #0D192C;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 650px;
     
     
 }
 .flex-container{
     display: flex;
     justify-content: center;
+    
     
 }
 
